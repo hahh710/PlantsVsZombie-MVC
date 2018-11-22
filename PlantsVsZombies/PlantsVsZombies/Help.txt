@@ -1,0 +1,28 @@
+		Help - How to play Plants Vs Zombies.
+ 
+--------------------------------------------------------------------
+	The goal of this game is to defense from the zombies.
+
+Each Difficulty contains different numbers and type of zombies. 
+
+Sun-point is the virtual Money to purchase the plants in the store. 
+PeaShooter Plant - PeaShooter attacks zombie in the same row.
+Sun-flower - The user can get 50 Sun-points on each wave. 
+
+
+Each wave, 
+One zombie is randomly spawned in the board.
+The user purchases the plants according to your own Strategies.
+
+
+
+
+Once the user purchases the plants, 
+
+the user can place the plants on the board by typing row and column.
+
+
+
+			Good Luck!! 
+
+--------------------------------------------------------------------
